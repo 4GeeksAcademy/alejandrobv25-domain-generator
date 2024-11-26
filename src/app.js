@@ -8,8 +8,8 @@ import "./assets/img/4geeks.ico";
 window.onload = function() {
   //write your code here
   let pronoun = ["her", "your", "his", "their", "our"];
-  let adj = ["amazing", "strange", "random", "cute"];
-  let noun = ["jogger", "racoon", "thoughts", "shoes"];
+  let adj = ["cheerful", "sloopy", "mysterious", "tiny"];
+  let noun = ["city", "dream", "gift", "food"];
 
   for (let i = 0; i < pronoun.length; i++) {
     for (let j = 0; j < adj.length; j++) {
